@@ -1,4 +1,4 @@
-package util
+package models
 
 data class Source(
     val id: String,

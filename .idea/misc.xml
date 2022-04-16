@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/Programming/AndroidProjects/MVVMNewsApp/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
         <entry key="..\:/Programming/AndroidProjects/MVVMNewsApp/app/src/main/res/layout/fragment_article.xml" value="0.2" />
+        <entry key="..\:/Programming/AndroidProjects/MVVMNewsApp/app/src/main/res/layout/item_article_preview.xml" value="0.25052083333333336" />
         <entry key="..\:/Programming/AndroidProjects/MVVMNewsApp/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25052083333333336" />
       </map>
     </option>
